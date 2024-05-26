@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Lazareva
-=======
-Lazareva
->>>>>>> 1fece52cbd8beefdbc1e73942024f1a9414d0cef
+
